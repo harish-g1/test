@@ -1,0 +1,17 @@
+commit 83f1058446b4827d63924de0ef8bfc152a3b3e2c
+Author: harish-g1 <harishgurav1@gmail.com>
+Date:   Mon May 18 12:47:09 2020 +0530
+
+    added .gitignore
+
+commit c41e6cb110a2599c3adb70ac6c2ac50d0ed3e1f4
+Author: harish-g1 <harishgurav1@gmail.com>
+Date:   Mon May 18 12:05:14 2020 +0530
+
+    renamed fil1 to file1
+
+commit 7f899dad0a4fa7dee0a9cfb98a5aa45bf6f17481
+Author: harish-g1 <harishgurav1@gmail.com>
+Date:   Mon May 18 11:47:33 2020 +0530
+
+    added readme.txt
