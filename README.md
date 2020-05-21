@@ -4,9 +4,9 @@
 
 My name is **Harish Gurav** from *Karwar, Karnataka*
 
--Birth place *Sirsi*
--Birth date `23 Aug 1995`
--Mother Tongue *Konkani*
+- Birth place *Sirsi*
+- Birth date `23 Aug 1995`
+- Mother Tongue *Konkani*
 
 ## Professional info:
 
