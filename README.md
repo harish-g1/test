@@ -1,6 +1,6 @@
 # MY PROFILE
 
-##Introduction
+## Introduction
 
 My name is **Harish Gurav** from *Karwar, Karnataka*
 
