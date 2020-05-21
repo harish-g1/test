@@ -1,29 +1,16 @@
-# This is a large heading
+# MY PROFILE
 
-## This is a smaller heading
+## Introduction
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+My name is **Harish Gurav** from *Karwar, Karnataka*
 
-- This is
-- an unordered
-- list
+- Birth place *Sirsi*
+- Birth date `23 Aug 1995`
+- Mother Tongue *Konkani*
 
-1. This is
-2. an ordered
-3. list
+## Professional info:
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+1. Application Development Associate at Accenure
+2. Exp 2 years
+3. Place *Bengaluru*
+4. click [here](https://www.linkedin.com/in/hareesh-gurav-31a48aa6) for more info
